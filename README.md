@@ -15,11 +15,11 @@ Bootcamp Orange Tech + <br/> BackEnd</h1>
 
   - [x] Conheça as Oportunidades da DIO
   
-  - [ ] Boas-vindas ao Orange Tech + I BackEnd
+  - [x] Boas-vindas ao Orange Tech + I BackEnd
 
   - [x] Seja Protagonista Neste Bootcamp
   
-  - [ ] Convite para o Minha Carreira Tech - Orange Tech + |BackEnd
+  - [x] Convite para o Minha Carreira Tech - Orange Tech + |BackEnd
 
   - [x] Introdução ao Desenvolvimento Moderno de Software
 
@@ -91,11 +91,11 @@ Bootcamp Orange Tech + <br/> BackEnd</h1>
 
   - [x] Gerenciamento de Dependências e Build em Java com Maven
 
-  - [x] Imersão no Spring Framework com Spring Boot
+  - [ ] Imersão no Spring Framework com Spring Boot
 
-  - [x] Criando uma API REST Documentada com Spring Web e Swagger
+  - [ ] Criando uma API REST Documentada com Spring Web e Swagger
   
-  - [x] Explorando Padrões de Projetos na Prática com Java
+  - [ ] Explorando Padrões de Projetos na Prática com Java
 
  <br/>
 
