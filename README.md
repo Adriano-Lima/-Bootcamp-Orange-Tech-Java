@@ -67,7 +67,7 @@ Bootcamp Orange Tech + <br/> BackEnd</h1>
   
   - [x] Desafio: Industria da Multa
   
-  #### [Clique aqui para acessar TODOS os Desafios do Módulo 4]()
+  #### [Clique aqui para acessar TODOS os Desafios do Módulo 4](https://github.com/Adriano-Lima/-Bootcamp-Orange-Tech-Java/tree/main/Desafios_Codigo/dominando-algoritmos-basicos)
 
  <br/>
 
@@ -111,7 +111,7 @@ Bootcamp Orange Tech + <br/> BackEnd</h1>
   
   - [x] Desafio: Camarote do Blue Cold Ice Cubes
 
-#### [Clique aqui para acessar TODOS os Desafios do Módulo 7]()
+#### [Clique aqui para acessar TODOS os Desafios do Módulo 7](https://github.com/Adriano-Lima/-Bootcamp-Orange-Tech-Java/tree/main/Desafios_Codigo/dominando-algoritmos-intermediarios)
 
  <br/>
 
