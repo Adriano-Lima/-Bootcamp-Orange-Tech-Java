@@ -1,5 +1,8 @@
 package adriano.springboot;
 
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
 
 public class Remetente {
     private String nome;
