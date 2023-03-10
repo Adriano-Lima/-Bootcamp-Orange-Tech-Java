@@ -18,5 +18,6 @@ public class Program {
         } else {
             System.out.println(multas+" multas. Nao levou pontos na carteira");
         }
+        leitor.close();
     }
 }

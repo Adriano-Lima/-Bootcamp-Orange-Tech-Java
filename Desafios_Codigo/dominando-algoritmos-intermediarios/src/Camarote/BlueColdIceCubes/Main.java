@@ -7,10 +7,12 @@ public class Main {
         Scanner leitor = new Scanner(System.in);
         int tamanhoDaFila = leitor.nextInt();
         int pessoasNoCamarote = 0;
-        for (var i = 1; i <=tamanhoDaFila ; i++) {
-            if(i%2 != 0)
-                pessoasNoCamarote++;
-        }
+       if(tamanhoDaFila%2 == 0){
+           pessoasNoCamarote = tamanhoDaFila/2;
+       } else{
+           pessoasNoCamarote = (tamanhoDaFila/2)+1;
+       }
         System.out.println(pessoasNoCamarote+" pessoas no camarote");
+       leitor.close();
     }
 }
