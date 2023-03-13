@@ -93,9 +93,9 @@ Bootcamp Orange Tech + <br/> BackEnd</h1>
 
   - [x] Imersão no Spring Framework com Spring Boot
 
-  - [ ] Criando uma API REST Documentada com Spring Web e Swagger
+  - [x] Criando uma API REST Documentada com Spring Web e Swagger
   
-  - [ ] Explorando Padrões de Projetos na Prática com Java
+  - [x] Explorando Padrões de Projetos na Prática com Java
 
  <br/>
 
